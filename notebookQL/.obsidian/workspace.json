@@ -8,32 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22da70bcc4c123fa",
+            "id": "096dcbadedd0a642",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Goals/Month 3.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b9b77e8099caacd7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09477d14c3c0d11c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "Month 3"
             }
           }
         ]
@@ -198,8 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "8d7110445a6c3ea3",
+  "active": "096dcbadedd0a642",
   "lastOpenFiles": [
+    "Goals/Month 2.md",
+    "Goals/Month 1.md",
+    "Goals/__Overview.md",
+    "Goals/Month 3.md",
+    "Month [[Month 1.md",
+    "Untitled.base",
+    "Goals",
     "Vendors/README.md",
     "Team/README.md",
     "QL Links/README.md",
@@ -208,7 +200,6 @@
     "Team",
     "Vendors",
     "QL Links",
-    "Welcome.md",
-    "Untitled.base"
+    "Welcome.md"
   ]
 }
