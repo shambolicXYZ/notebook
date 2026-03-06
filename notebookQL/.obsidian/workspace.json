@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Month 3.md",
-                "mode": "preview",
+                "file": "Welcome.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month 3"
+              "title": "Welcome"
             }
           }
         ]
@@ -185,12 +185,16 @@
   },
   "active": "096dcbadedd0a642",
   "lastOpenFiles": [
-    "Goals/Month 2.md",
-    "Goals/Month 1.md",
-    "Goals/__Overview.md",
-    "Goals/Month 3.md",
-    "Month [[Month 1.md",
+    "attach/MPLS_UR.pdf",
+    "attach",
+    "MPLS_UR.pdf",
     "Untitled.base",
+    "Welcome.md",
+    "Goals/Month 1.md",
+    "Goals/Month 3.md",
+    "Goals/Month 2.md",
+    "Goals/__Overview.md",
+    "Month [[Month 1.md",
     "Goals",
     "Vendors/README.md",
     "Team/README.md",
@@ -199,7 +203,6 @@
     "Notes",
     "Team",
     "Vendors",
-    "QL Links",
-    "Welcome.md"
+    "QL Links"
   ]
 }
