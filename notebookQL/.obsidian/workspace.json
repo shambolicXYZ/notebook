@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vendors/Juniper/Configs/re-protect/HERE inet router example.md",
+                "file": "Vendors/Juniper/Configs/re-protect/HERE FW example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HERE inet router example"
+              "title": "HERE FW example"
             }
           },
           {
@@ -199,12 +199,13 @@
   },
   "active": "096dcbadedd0a642",
   "lastOpenFiles": [
-    "To Do/DHCPD Log messages - QLT-0170.md",
+    "Linux Tools/vi-nvim/commands - tricks.md",
+    "Vendors/Juniper/Configs/re-protect/HERE FW example.md",
     "Vendors/Juniper/Configs/re-protect/HERE inet router example.md",
+    "To Do/DHCPD Log messages - QLT-0170.md",
     "Vendors/Juniper/Configs/re-protect",
     "Vendors/Juniper/Configs",
     "Vendors/Juniper",
-    "Linux Tools/vi-nvim/commands - tricks.md",
     "Linux Tools/vi-nvim",
     "Linux Tools",
     "To Do/ACX logging.md",
