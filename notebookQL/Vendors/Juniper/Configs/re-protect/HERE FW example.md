@@ -1,4 +1,4 @@
-`set groups org-defaults-v1 firewall family inet filter cpp-ipv4-v1 term discard-and-dont-log-scanner-v4 from source-prefix-list ip-scanners-v4
+r`set groups org-defaults-v1 firewall family inet filter cpp-ipv4-v1 term discard-and-dont-log-scanner-v4 from source-prefix-list ip-scanners-v4
 `set groups org-defaults-v1 firewall family inet filter cpp-ipv4-v1 term discard-and-dont-log-scanner-v4 then discard
 `set groups org-defaults-v1 firewall family inet filter cpp-ipv4-v1 term accept-icmp-v4 from protocol icmp
 `set groups org-defaults-v1 firewall family inet filter cpp-ipv4-v1 term accept-icmp-v4 from icmp-type echo-request

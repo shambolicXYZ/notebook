@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vendors/Juniper/Configs/re-protect/HERE FW example.md",
+                "file": "To Do/ACX logging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HERE FW example"
+              "title": "ACX logging"
             }
           }
         ],
@@ -201,8 +201,9 @@
   },
   "active": "839d20da2bc18a4b",
   "lastOpenFiles": [
-    "Vendors/Juniper/Configs/re-protect/HERE inet router example.md",
+    "To Do/DHCPD Log messages - QLT-0170.md",
     "Vendors/Juniper/Configs/re-protect/HERE FW example.md",
+    "Vendors/Juniper/Configs/re-protect/HERE inet router example.md",
     "Vendors/Juniper/Certs/MPLS Fundamentals/Drawing 2026-03-30 09.55.22.excalidraw.md",
     "Linux Tools/vi-nvim/commands - tricks.md",
     "Vendors/Juniper/Certs/MPLS Fundamentals/Untitled.canvas",
@@ -211,7 +212,6 @@
     "Vendors/Juniper/Certs/MPLS Fundamentals",
     "Vendors/Juniper/Certs",
     "To Do/ACX logging.md",
-    "To Do/DHCPD Log messages - QLT-0170.md",
     "Vendors/Juniper/Configs/re-protect",
     "Vendors/Juniper/Configs",
     "Vendors/Juniper",
